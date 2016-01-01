@@ -1,0 +1,20 @@
+Directory Structure
+
+app
+---- components
+---- stores
+---- actions
+---- dist
+
+public
+---- css
+---- images
+---- js
+
+views
+
+routes
+---- routes.js
+
+server
+---- server.js
